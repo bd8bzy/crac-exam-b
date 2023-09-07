@@ -534,14 +534,14 @@ UHF业余无线电台在430MHz频段 ***进行本地联络时应避免占用*** 
 + [B]甚高频（米波）
 + [C]高频（短波）
 + [D]超高频（厘米波）
-> 低频LF(Low frequency)                 30KHz~300KHz    长波/千米波    
-> 中频MF(Medium Frequency)              300KHz~3MHz     中波/百米波    
-> 高频HF(High frequency)                3MHz~30MHz      短波/十米波    
-> 甚高频VHF(Very high frequency)        30MHz~300MHz    米波    
-> 特高频UHF(Ultra high frequency)       300MHz~3GHz     分米波    
-> 超高频SHF(Super high frequency)       3GHz~30GHz      厘米波      
-> 极高频EHF(Extremely high frequency)   30GHz~300GHz    毫米波    
-> 至高频THF(terahertz)                  300GHz~3THz     亚毫米波
+> 低频LF(Low frequency)                 30KHz-300KHz    长波/千米波    
+> 中频MF(Medium Frequency)              300KHz-3MHz     中波/百米波    
+> 高频HF(High frequency)                3MHz-30MHz      短波/十米波    
+> 甚高频VHF(Very high frequency)        30MHz-300MHz    米波    
+> 特高频UHF(Ultra high frequency)       300MHz-3GHz     分米波    
+> 超高频SHF(Super high frequency)       3GHz-30GHz      厘米波      
+> 极高频EHF(Extremely high frequency)   30GHz-300GHz    毫米波    
+> 至高频THF(terahertz)                  300GHz-3THz     亚毫米波
 
 
 ## LK0221
@@ -1765,7 +1765,7 @@ BH1ZZZ希望加入两个电台正在通信中的谈话，正确的方法为：
 + [B]QSO？
 + [C]QRO
 + [D]QRS？
-> QRO：增加功率
+> QRO：增加功率    
 > QRP：减小功率
 
 
@@ -2746,7 +2746,7 @@ BH1ZZZ希望加入两个电台正在通信中的谈话，正确的方法为：
 + [B]晶体
 + [C]姑娘
 + [D]发信机
-> 推测是通过 ex-young lady，“前女士”而来。
+> 推测是通过 Ex-Young Lady，“前女士”而来。
 
 
 ## LK0399
@@ -2755,7 +2755,7 @@ BH1ZZZ希望加入两个电台正在通信中的谈话，正确的方法为：
 + [B]好运气
 + [C]你的
 + [D]呼叫
-> young lady
+> Young Lady
 
 
 ## LK0400
@@ -2764,7 +2764,7 @@ BH1ZZZ希望加入两个电台正在通信中的谈话，正确的方法为：
 + [B]结束联络
 + [C]再见
 + [D]美好的祝愿
-> thank you
+> Thank yoU
 
 
 ## LK0401
@@ -2783,7 +2783,7 @@ BH1ZZZ希望加入两个电台正在通信中的谈话，正确的方法为：
 + [B]再见
 + [C]祝对方发达、发财
 + [D]谢谢你
-> Love and kisses
+> love and kisses
 
 
 ## &LK0405
@@ -5259,7 +5259,7 @@ A、B、C、D四类放大器中，属于大信号放大器的全部类别有：
 + [C]23W
 + [D]0.23W
 > 0 dBm = -30 dBW，增益后为 -7dbW。10 * log10( ? / 1) = 10 * -0.7 = 10 * log10(0.2W / 1W)    
-> (记忆技巧： log10(0.2) = -0.7)
+> (记忆技巧： log10(2) = 0.3)
 
 
 ## LK0563
